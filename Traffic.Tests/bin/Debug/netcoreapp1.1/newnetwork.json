@@ -1,0 +1,24 @@
+{
+    "$id": "1",
+    "controllers": null,
+    "links": [
+        {
+            "$id": "2",
+            "id": 1,
+            "ControlledByPhases": [],
+            "UpstreamLinks": null,
+            "DownstreamLinks": null
+        },
+        {
+            "$id": "3",
+            "id": 2,
+            "ControlledByPhases": [],
+            "UpstreamLinks": [
+                {
+                    "$ref": "2"
+                }
+            ],
+            "DownstreamLinks": null
+        }
+    ]
+}

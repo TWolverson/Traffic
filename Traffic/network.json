@@ -1,0 +1,87 @@
+{
+    "links": [
+        {
+            "id": 1,
+            "description": "eastbound",
+            "satflow": 1800,
+            "controlledByPhases": [
+                {
+                    "controller_id": 1,
+                    "phase_id": 1
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "description": "northbound",
+            "satflow": 1800,
+            "controlledByPhases": [
+                {
+                    "controller_id": 1,
+                    "phase_id": 2
+                }
+            ],
+            "upstreamLinks": [
+                1
+            ],
+            "downstreamLinks": [
+                5
+            ]
+        }
+    ],
+    "controllers": [
+        {
+            "id": 1,
+            "cycletime": 95,
+            "phases": [
+                {
+                    "id": 1,
+                    "runsInStages": [
+                        1
+                    ]
+                },
+                {
+                    "id": 2,
+                    "runsInStages": [
+                        1
+                    ]
+                },
+                {
+                    "id": 3,
+                    "runsInStages": [
+                        2
+                    ]
+                },
+                {
+                    "id": 4,
+                    "runsInStages": [
+                        3
+                    ]
+                },
+                {
+                    "id": 5,
+                    "runsInStages": [
+                        3
+                    ]
+                }
+            ],
+            "stages": [
+                {
+                    "id": 1,
+                    "StartTime": 0,
+                    "EndTime": 30
+                },
+                {
+                    "id": 2,
+                    "StartTime": 35,
+                    "EndTime": 60
+                },
+                {
+                    "id": 3,
+                    "StartTime": 65,
+                    "EndTime": 90
+                }
+            ]
+        }
+    ]
+}

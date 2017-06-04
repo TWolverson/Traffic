@@ -1,0 +1,13 @@
+C:\Users\Tom\Documents\Projects\Traffic\Traffic.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Tom\Documents\Projects\Traffic\Traffic.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\Tom\Documents\Projects\Traffic\Traffic.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\Tom\Documents\Projects\Traffic\Traffic.Tests\bin\Debug\netcoreapp1.1\Traffic.Tests.deps.json
+C:\Users\Tom\Documents\Projects\Traffic\Traffic.Tests\bin\Debug\netcoreapp1.1\Traffic.Tests.runtimeconfig.json
+C:\Users\Tom\Documents\Projects\Traffic\Traffic.Tests\bin\Debug\netcoreapp1.1\Traffic.Tests.runtimeconfig.dev.json
+C:\Users\Tom\Documents\Projects\Traffic\Traffic.Tests\bin\Debug\netcoreapp1.1\Traffic.Tests.dll
+C:\Users\Tom\Documents\Projects\Traffic\Traffic.Tests\bin\Debug\netcoreapp1.1\Traffic.Tests.pdb
+C:\Users\Tom\Documents\Projects\Traffic\Traffic.Tests\bin\Debug\netcoreapp1.1\Traffic.dll
+C:\Users\Tom\Documents\Projects\Traffic\Traffic.Tests\bin\Debug\netcoreapp1.1\Traffic.pdb
+C:\Users\Tom\Documents\Projects\Traffic\Traffic.Tests\obj\Debug\netcoreapp1.1\Traffic.Tests.AssemblyInfo.cs
+C:\Users\Tom\Documents\Projects\Traffic\Traffic.Tests\obj\Debug\netcoreapp1.1\Traffic.Tests.dll
+C:\Users\Tom\Documents\Projects\Traffic\Traffic.Tests\obj\Debug\netcoreapp1.1\Traffic.Tests.pdb
